@@ -1,0 +1,32 @@
+{
+    "sagittal": {
+        "width": 450,
+        "height": 404,
+        "slices": 226,
+        "coordinateMappings": {
+            "axisX": "slice",
+            "axisY": "mouseX",
+            "axisZ": "mouseY"
+        }
+    },
+    "coronal": {
+        "width": 226,
+        "height": 404,
+        "slices": 450,
+        "coordinateMappings": {
+            "axisX": "mouseX",
+            "axisY": "slice",
+            "axisZ": "mouseY"
+        }
+    },
+    "axial": {
+        "width": 226,
+        "height": 450,
+        "slices": 404,
+        "coordinateMappings": {
+            "axisX": "mouseX",
+            "axisY": "mouseY",
+            "axisZ": "slice"
+        }
+    }
+}
