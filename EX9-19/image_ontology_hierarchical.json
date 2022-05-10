@@ -1,0 +1,5084 @@
+[
+    {
+        "label": "Background",
+        "data": {
+            "blockNumber": 17,
+            "xh": 252,
+            "yh": 614,
+            "zh": 15,
+            "xm": 178,
+            "ym": 202,
+            "zm": 195
+        },
+        "children": [
+            {
+                "label": "pineal_body",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 252,
+                    "yh": 614,
+                    "zh": 15,
+                    "xm": 178,
+                    "ym": 202,
+                    "zm": 195
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Cerebral-White-Matter",
+        "data": {
+            "blockNumber": 20,
+            "xh": 235,
+            "yh": 436,
+            "zh": 17,
+            "xm": 105,
+            "ym": 105,
+            "zm": 207
+        },
+        "children": [
+            {
+                "label": "frontomarginal_gyrus\u00a0",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 17,
+                    "xm": 31,
+                    "ym": 369,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "white_matter_of_forebrain",
+                "data": {
+                    "blockNumber": 20,
+                    "xh": 235,
+                    "yh": 436,
+                    "zh": 17,
+                    "xm": 105,
+                    "ym": 105,
+                    "zm": 207
+                }
+            },
+            {
+                "label": "septum_pellucidum",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 165,
+                    "yh": 627,
+                    "zh": 0,
+                    "xm": 157,
+                    "ym": 280,
+                    "zm": 201
+                }
+            },
+            {
+                "label": "claustrum",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 335,
+                    "yh": 330,
+                    "zh": 1,
+                    "xm": 95,
+                    "ym": 248,
+                    "zm": 184
+                }
+            },
+            {
+                "label": "ventral_pallidus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 339,
+                    "yh": 534,
+                    "zh": 32,
+                    "xm": 144,
+                    "ym": 268,
+                    "zm": 161
+                }
+            },
+            {
+                "label": "anterior_commissure",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 283,
+                    "yh": 567,
+                    "zh": 31,
+                    "xm": 157,
+                    "ym": 269,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "medial_forbrain_bundle",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 31,
+                    "xm": 33,
+                    "ym": 394,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "temporal_claustrum",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 203,
+                    "yh": 451,
+                    "zh": 17,
+                    "xm": 100,
+                    "ym": 256,
+                    "zm": 143
+                }
+            },
+            {
+                "label": "stria_terminalis",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 166,
+                    "yh": 508,
+                    "zh": 19,
+                    "xm": 154,
+                    "ym": 264,
+                    "zm": 204
+                }
+            },
+            {
+                "label": "supracapsular_division_of_bnst",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "fornix",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 193,
+                    "yh": 596,
+                    "zh": 26,
+                    "xm": 172,
+                    "ym": 267,
+                    "zm": 190
+                }
+            },
+            {
+                "label": "body_of_the_fornix",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 26,
+                    "xm": 32,
+                    "ym": 385,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "cerebral_peduncal ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 26,
+                    "xm": 32,
+                    "ym": 385,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "posteroventral_putamen",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 200,
+                    "yh": 487,
+                    "zh": 17,
+                    "xm": 106,
+                    "ym": 231,
+                    "zm": 160
+                }
+            },
+            {
+                "label": "tail_of_caudate",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 452,
+                    "yh": 217,
+                    "zh": 6,
+                    "xm": 107,
+                    "ym": 172,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "tapetum_of_corpus_callosum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 6,
+                    "xm": 30,
+                    "ym": 350,
+                    "zm": 336
+                }
+            },
+            {
+                "label": "hippocampal_commissure",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 6,
+                    "xm": 30,
+                    "ym": 350,
+                    "zm": 336
+                }
+            },
+            {
+                "label": "crus_of_the_fornix",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 6,
+                    "xm": 30,
+                    "ym": 350,
+                    "zm": 336
+                }
+            },
+            {
+                "label": "forceps_inferior",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 6,
+                    "xm": 30,
+                    "ym": 350,
+                    "zm": 336
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Cerebral-Cortex      ",
+        "data": {
+            "blockNumber": 20,
+            "xh": 238,
+            "yh": 445,
+            "zh": 29,
+            "xm": 108,
+            "ym": 115,
+            "zm": 206
+        },
+        "children": [
+            {
+                "label": "frontal_pole ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "medial_septal_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 193,
+                    "yh": 589,
+                    "zh": 39,
+                    "xm": 171,
+                    "ym": 278,
+                    "zm": 189
+                }
+            },
+            {
+                "label": "ventral_division_of_lateral_septal_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 39,
+                    "xm": 34,
+                    "ym": 408,
+                    "zm": 326
+                }
+            },
+            {
+                "label": "basal_nucleus_of_meynert",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 358,
+                    "yh": 520,
+                    "zh": 20,
+                    "xm": 138,
+                    "ym": 258,
+                    "zm": 160
+                }
+            },
+            {
+                "label": "diagonal_band",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 332,
+                    "yh": 581,
+                    "zh": 27,
+                    "xm": 155,
+                    "ym": 263,
+                    "zm": 160
+                }
+            },
+            {
+                "label": "bed_nucleus_of_stria_terminalis",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 226,
+                    "yh": 560,
+                    "zh": 29,
+                    "xm": 161,
+                    "ym": 269,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "nucleus_of_diagonal_band",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "substantia_innominata",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 340,
+                    "yh": 533,
+                    "zh": 19,
+                    "xm": 143,
+                    "ym": 257,
+                    "zm": 163
+                }
+            },
+            {
+                "label": "darkly-stained_nanocellular_islands_of_si",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "lightly-stained_parvocellular_islands_of_si",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "nucleus_subputaminalis",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "anterior_olfactory_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 355,
+                    "yh": 559,
+                    "zh": 32,
+                    "xm": 148,
+                    "ym": 267,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "lateral_olfactory_stria",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 383,
+                    "yh": 589,
+                    "zh": 35,
+                    "xm": 152,
+                    "ym": 268,
+                    "zm": 147
+                }
+            },
+            {
+                "label": "lateral_olfactory_area",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 388,
+                    "yh": 537,
+                    "zh": 31,
+                    "xm": 140,
+                    "ym": 266,
+                    "zm": 150
+                }
+            },
+            {
+                "label": "layer_i_of_piriform_cortex",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 31,
+                    "xm": 33,
+                    "ym": 394,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "layer_ii_of_piriform_cortex",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 31,
+                    "xm": 33,
+                    "ym": 394,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "layer_iii_of_piriform_cortex",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 148,
+                    "yh": 517,
+                    "zh": 18,
+                    "xm": 120,
+                    "ym": 257,
+                    "zm": 150
+                }
+            },
+            {
+                "label": "unknown",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 18,
+                    "xm": 31,
+                    "ym": 371,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "bankssts",
+                "data": {
+                    "blockNumber": 31,
+                    "xh": 467,
+                    "yh": 230,
+                    "zh": 9,
+                    "xm": 38,
+                    "ym": 162,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "caudalanteriorcingulate",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 365,
+                    "yh": 565,
+                    "zh": 1,
+                    "xm": 168,
+                    "ym": 317,
+                    "zm": 242
+                }
+            },
+            {
+                "label": "caudalmiddlefrontal",
+                "data": {
+                    "blockNumber": 22,
+                    "xh": 277,
+                    "yh": 291,
+                    "zh": 10,
+                    "xm": 103,
+                    "ym": 281,
+                    "zm": 290
+                }
+            },
+            {
+                "label": "corpuscallosum",
+                "data": {
+                    "blockNumber": 13,
+                    "xh": 244,
+                    "yh": 406,
+                    "zh": 12,
+                    "xm": 161,
+                    "ym": 162,
+                    "zm": 220
+                }
+            },
+            {
+                "label": "cuneus",
+                "data": {
+                    "blockNumber": 38,
+                    "xh": 373,
+                    "yh": 666,
+                    "zh": 5,
+                    "xm": 163,
+                    "ym": 97,
+                    "zm": 259
+                }
+            },
+            {
+                "label": "entorhinal",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 235,
+                    "yh": 593,
+                    "zh": 18,
+                    "xm": 131,
+                    "ym": 253,
+                    "zm": 124
+                }
+            },
+            {
+                "label": "fusiform",
+                "data": {
+                    "blockNumber": 20,
+                    "xh": 220,
+                    "yh": 527,
+                    "zh": 0,
+                    "xm": 127,
+                    "ym": 89,
+                    "zm": 208
+                }
+            },
+            {
+                "label": "inferiorparietal",
+                "data": {
+                    "blockNumber": 20,
+                    "xh": 191,
+                    "yh": 282,
+                    "zh": 4,
+                    "xm": 69,
+                    "ym": 97,
+                    "zm": 226
+                }
+            },
+            {
+                "label": "inferiortemporal",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 472,
+                    "yh": 327,
+                    "zh": 29,
+                    "xm": 51,
+                    "ym": 215,
+                    "zm": 124
+                }
+            },
+            {
+                "label": "isthmuscingulate",
+                "data": {
+                    "blockNumber": 13,
+                    "xh": 420,
+                    "yh": 347,
+                    "zh": 1,
+                    "xm": 131,
+                    "ym": 143,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "lateraloccipital",
+                "data": {
+                    "blockNumber": 30,
+                    "xh": 560,
+                    "yh": 358,
+                    "zh": 3,
+                    "xm": 134,
+                    "ym": 37,
+                    "zm": 215
+                }
+            },
+            {
+                "label": "lateralorbitofrontal",
+                "data": {
+                    "blockNumber": 43,
+                    "xh": 356,
+                    "yh": 465,
+                    "zh": 9,
+                    "xm": 108,
+                    "ym": 317,
+                    "zm": 161
+                }
+            },
+            {
+                "label": "lingual",
+                "data": {
+                    "blockNumber": 20,
+                    "xh": 311,
+                    "yh": 619,
+                    "zh": 6,
+                    "xm": 145,
+                    "ym": 91,
+                    "zm": 181
+                }
+            },
+            {
+                "label": "medialorbitofrontal",
+                "data": {
+                    "blockNumber": 43,
+                    "xh": 378,
+                    "yh": 708,
+                    "zh": 0,
+                    "xm": 166,
+                    "ym": 302,
+                    "zm": 146
+                }
+            },
+            {
+                "label": "middletemporal",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 357,
+                    "yh": 263,
+                    "zh": 18,
+                    "xm": 38,
+                    "ym": 234,
+                    "zm": 144
+                }
+            },
+            {
+                "label": "parahippocampal",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 484,
+                    "yh": 338,
+                    "zh": 0,
+                    "xm": 125,
+                    "ym": 162,
+                    "zm": 173
+                }
+            },
+            {
+                "label": "paracentral",
+                "data": {
+                    "blockNumber": 7,
+                    "xh": 201,
+                    "yh": 470,
+                    "zh": 7,
+                    "xm": 176,
+                    "ym": 216,
+                    "zm": 294
+                }
+            },
+            {
+                "label": "parsopercularis",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 211,
+                    "yh": 260,
+                    "zh": 6,
+                    "xm": 65,
+                    "ym": 294,
+                    "zm": 204
+                }
+            },
+            {
+                "label": "parsorbitalis",
+                "data": {
+                    "blockNumber": 43,
+                    "xh": 306,
+                    "yh": 307,
+                    "zh": 6,
+                    "xm": 71,
+                    "ym": 321,
+                    "zm": 180
+                }
+            },
+            {
+                "label": "parstriangularis",
+                "data": {
+                    "blockNumber": 43,
+                    "xh": 220,
+                    "yh": 309,
+                    "zh": 24,
+                    "xm": 77,
+                    "ym": 339,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "pericalcarine",
+                "data": {
+                    "blockNumber": 34,
+                    "xh": 247,
+                    "yh": 606,
+                    "zh": 5,
+                    "xm": 156,
+                    "ym": 66,
+                    "zm": 218
+                }
+            },
+            {
+                "label": "postcentral",
+                "data": {
+                    "blockNumber": 35,
+                    "xh": 487,
+                    "yh": 268,
+                    "zh": 6,
+                    "xm": 55,
+                    "ym": 216,
+                    "zm": 251
+                }
+            },
+            {
+                "label": "posteriorcingulate",
+                "data": {
+                    "blockNumber": 7,
+                    "xh": 297,
+                    "yh": 572,
+                    "zh": 14,
+                    "xm": 172,
+                    "ym": 224,
+                    "zm": 258
+                }
+            },
+            {
+                "label": "precentral",
+                "data": {
+                    "blockNumber": 12,
+                    "xh": 391,
+                    "yh": 243,
+                    "zh": 5,
+                    "xm": 56,
+                    "ym": 267,
+                    "zm": 223
+                }
+            },
+            {
+                "label": "precuneus",
+                "data": {
+                    "blockNumber": 23,
+                    "xh": 365,
+                    "yh": 664,
+                    "zh": 2,
+                    "xm": 165,
+                    "ym": 124,
+                    "zm": 263
+                }
+            },
+            {
+                "label": "rostralanteriorcingulate",
+                "data": {
+                    "blockNumber": 29,
+                    "xh": 459,
+                    "yh": 466,
+                    "zh": 2,
+                    "xm": 158,
+                    "ym": 371,
+                    "zm": 214
+                }
+            },
+            {
+                "label": "rostralmiddlefrontal",
+                "data": {
+                    "blockNumber": 2,
+                    "xh": 499,
+                    "yh": 383,
+                    "zh": 4,
+                    "xm": 109,
+                    "ym": 404,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "superiorfrontal",
+                "data": {
+                    "blockNumber": 22,
+                    "xh": 193,
+                    "yh": 487,
+                    "zh": 19,
+                    "xm": 156,
+                    "ym": 295,
+                    "zm": 298
+                }
+            },
+            {
+                "label": "superiorparietal",
+                "data": {
+                    "blockNumber": 23,
+                    "xh": 231,
+                    "yh": 492,
+                    "zh": 10,
+                    "xm": 131,
+                    "ym": 145,
+                    "zm": 302
+                }
+            },
+            {
+                "label": "superiortemporal",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 204,
+                    "yh": 316,
+                    "zh": 31,
+                    "xm": 69,
+                    "ym": 270,
+                    "zm": 151
+                }
+            },
+            {
+                "label": "supramarginal",
+                "data": {
+                    "blockNumber": 16,
+                    "xh": 394,
+                    "yh": 255,
+                    "zh": 2,
+                    "xm": 60,
+                    "ym": 179,
+                    "zm": 256
+                }
+            },
+            {
+                "label": "frontalpole",
+                "data": {
+                    "blockNumber": 2,
+                    "xh": 368,
+                    "yh": 242,
+                    "zh": 14,
+                    "xm": 147,
+                    "ym": 415,
+                    "zm": 151
+                }
+            },
+            {
+                "label": "temporalpole",
+                "data": {
+                    "blockNumber": 26,
+                    "xh": 324,
+                    "yh": 625,
+                    "zh": 8,
+                    "xm": 107,
+                    "ym": 281,
+                    "zm": 101
+                }
+            },
+            {
+                "label": "transversetemporal",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 185,
+                    "yh": 444,
+                    "zh": 4,
+                    "xm": 70,
+                    "ym": 200,
+                    "zm": 199
+                }
+            },
+            {
+                "label": "insula",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 295,
+                    "yh": 359,
+                    "zh": 1,
+                    "xm": 85,
+                    "ym": 283,
+                    "zm": 181
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Lateral-Ventricle",
+        "data": {
+            "blockNumber": 45,
+            "xh": 152,
+            "yh": 542,
+            "zh": 0,
+            "xm": 158,
+            "ym": 225,
+            "zm": 234
+        },
+        "children": [
+            {
+                "label": "anterior_horn_of_lateral_ventricle",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 152,
+                    "yh": 542,
+                    "zh": 0,
+                    "xm": 158,
+                    "ym": 225,
+                    "zm": 234
+                }
+            },
+            {
+                "label": "body_of_lateral_ventricle",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 0,
+                    "xm": 29,
+                    "ym": 340,
+                    "zm": 338
+                }
+            },
+            {
+                "label": "atrium_of_lateral_ventricle ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 0,
+                    "xm": 29,
+                    "ym": 340,
+                    "zm": 338
+                }
+            },
+            {
+                "label": "posterior_horn_of_lateral_ventricle",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 0,
+                    "xm": 29,
+                    "ym": 340,
+                    "zm": 338
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Cerebellum-White_Matter",
+        "data": {
+            "blockNumber": 25,
+            "xh": 275,
+            "yh": 435,
+            "zh": 14,
+            "xm": 136,
+            "ym": 136,
+            "zm": 115
+        },
+        "children": [
+            {
+                "label": "white_matter_of_hindbrain",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 275,
+                    "yh": 435,
+                    "zh": 14,
+                    "xm": 136,
+                    "ym": 136,
+                    "zm": 115
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Cerebellum-Cortex",
+        "data": {
+            "blockNumber": 25,
+            "xh": 248,
+            "yh": 517,
+            "zh": 7,
+            "xm": 130,
+            "ym": 115,
+            "zm": 119
+        },
+        "children": [
+            {
+                "label": "molecular_layer_of_pva",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 212,
+                    "yh": 530,
+                    "zh": 17,
+                    "xm": 139,
+                    "ym": 110,
+                    "zm": 127
+                }
+            },
+            {
+                "label": "granular_cell_layer_of_pva",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 286,
+                    "yh": 529,
+                    "zh": 24,
+                    "xm": 144,
+                    "ym": 113,
+                    "zm": 109
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Thalamus",
+        "data": {
+            "blockNumber": 45,
+            "xh": 291,
+            "yh": 552,
+            "zh": 2,
+            "xm": 153,
+            "ym": 222,
+            "zm": 200
+        },
+        "children": [
+            {
+                "label": "magnocellular_division_of_reticular_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 199,
+                    "yh": 537,
+                    "zh": 17,
+                    "xm": 158,
+                    "ym": 260,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "parvocellular_division_of_reticular_nucleus_(perireticular_nucleus)\u00a0",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 214,
+                    "yh": 522,
+                    "zh": 17,
+                    "xm": 153,
+                    "ym": 260,
+                    "zm": 193
+                }
+            },
+            {
+                "label": "stria_medullaris_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 213,
+                    "yh": 620,
+                    "zh": 9,
+                    "xm": 175,
+                    "ym": 229,
+                    "zm": 215
+                }
+            },
+            {
+                "label": "thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 317,
+                    "yh": 562,
+                    "zh": 4,
+                    "xm": 155,
+                    "ym": 222,
+                    "zm": 193
+                }
+            },
+            {
+                "label": "anterodorsal_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 209,
+                    "yh": 613,
+                    "zh": 16,
+                    "xm": 173,
+                    "ym": 235,
+                    "zm": 215
+                }
+            },
+            {
+                "label": "anteroventral_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 214,
+                    "yh": 575,
+                    "zh": 19,
+                    "xm": 164,
+                    "ym": 238,
+                    "zm": 215
+                }
+            },
+            {
+                "label": "parataenial_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 226,
+                    "yh": 624,
+                    "zh": 20,
+                    "xm": 175,
+                    "ym": 238,
+                    "zm": 210
+                }
+            },
+            {
+                "label": "parvocellular_division_of_va",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 262,
+                    "yh": 522,
+                    "zh": 23,
+                    "xm": 149,
+                    "ym": 241,
+                    "zm": 206
+                }
+            },
+            {
+                "label": "fasciculosus_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 234,
+                    "yh": 574,
+                    "zh": 16,
+                    "xm": 163,
+                    "ym": 257,
+                    "zm": 184
+                }
+            },
+            {
+                "label": "rhomboid_(central)_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 226,
+                    "yh": 561,
+                    "zh": 0,
+                    "xm": 160,
+                    "ym": 244,
+                    "zm": 189
+                }
+            },
+            {
+                "label": "paraventricular_nucleus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 276,
+                    "yh": 640,
+                    "zh": 21,
+                    "xm": 177,
+                    "ym": 237,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "zona_incerta",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 360,
+                    "yh": 534,
+                    "zh": 18,
+                    "xm": 146,
+                    "ym": 233,
+                    "zm": 182
+                }
+            },
+            {
+                "label": "inferior_thalamic_peduncle\u00a0",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 260,
+                    "yh": 565,
+                    "zh": 16,
+                    "xm": 158,
+                    "ym": 257,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "dorsal_division_of_lateral_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 16,
+                    "xm": 31,
+                    "ym": 368,
+                    "zm": 333
+                }
+            },
+            {
+                "label": "ventral_(parvicellular)_division_of_basolateral_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 16,
+                    "xm": 31,
+                    "ym": 368,
+                    "zm": 333
+                }
+            },
+            {
+                "label": "anteromedial_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 182,
+                    "yh": 576,
+                    "zh": 3,
+                    "xm": 168,
+                    "ym": 248,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "reuniens_nucleus_(medioventral_nucleus)_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 331,
+                    "yh": 618,
+                    "zh": 28,
+                    "xm": 169,
+                    "ym": 241,
+                    "zm": 184
+                }
+            },
+            {
+                "label": "reticular_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 356,
+                    "yh": 436,
+                    "zh": 8,
+                    "xm": 125,
+                    "ym": 201,
+                    "zm": 205
+                }
+            },
+            {
+                "label": "interthalamic_adhesion_(massa_intermedia)",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 8,
+                    "xm": 30,
+                    "ym": 354,
+                    "zm": 335
+                }
+            },
+            {
+                "label": "ventral_medial_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 343,
+                    "yh": 515,
+                    "zh": 12,
+                    "xm": 142,
+                    "ym": 229,
+                    "zm": 188
+                }
+            },
+            {
+                "label": "mammillothalamic_tract",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 311,
+                    "yh": 584,
+                    "zh": 31,
+                    "xm": 162,
+                    "ym": 245,
+                    "zm": 190
+                }
+            },
+            {
+                "label": "magnocellular_(medial)_division_of_md",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 272,
+                    "yh": 606,
+                    "zh": 16,
+                    "xm": 168,
+                    "ym": 233,
+                    "zm": 200
+                }
+            },
+            {
+                "label": "magnocellular_division_of_va",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 316,
+                    "yh": 558,
+                    "zh": 20,
+                    "xm": 154,
+                    "ym": 236,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "central_medial_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 316,
+                    "yh": 619,
+                    "zh": 31,
+                    "xm": 170,
+                    "ym": 244,
+                    "zm": 187
+                }
+            },
+            {
+                "label": "paracentral_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 290,
+                    "yh": 579,
+                    "zh": 21,
+                    "xm": 161,
+                    "ym": 237,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "intermediodorsal__nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 319,
+                    "yh": 632,
+                    "zh": 24,
+                    "xm": 173,
+                    "ym": 238,
+                    "zm": 187
+                }
+            },
+            {
+                "label": "anteromedial_large-celled_island_of_md_",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 24,
+                    "xm": 32,
+                    "ym": 382,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "central_dorsal_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 223,
+                    "yh": 600,
+                    "zh": 4,
+                    "xm": 169,
+                    "ym": 225,
+                    "zm": 214
+                }
+            },
+            {
+                "label": "central_part_of_medial_division_of_md",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 281,
+                    "yh": 624,
+                    "zh": 6,
+                    "xm": 172,
+                    "ym": 224,
+                    "zm": 199
+                }
+            },
+            {
+                "label": "parvocellular_(central)_division_of_md",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 258,
+                    "yh": 537,
+                    "zh": 28,
+                    "xm": 163,
+                    "ym": 216,
+                    "zm": 204
+                }
+            },
+            {
+                "label": "rostral_division_of_vl",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 306,
+                    "yh": 506,
+                    "zh": 10,
+                    "xm": 142,
+                    "ym": 229,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "stratum_zonale_of_thalamus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 10,
+                    "xm": 30,
+                    "ym": 357,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "thalamic_fasciculus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 364,
+                    "yh": 598,
+                    "zh": 21,
+                    "xm": 162,
+                    "ym": 235,
+                    "zm": 178
+                }
+            },
+            {
+                "label": "dorsal_subdivision_of_vlc",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 257,
+                    "yh": 455,
+                    "zh": 28,
+                    "xm": 148,
+                    "ym": 219,
+                    "zm": 216
+                }
+            },
+            {
+                "label": "lateral_dorsal_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 216,
+                    "yh": 491,
+                    "zh": 31,
+                    "xm": 162,
+                    "ym": 221,
+                    "zm": 218
+                }
+            },
+            {
+                "label": "densocelllular_(paralamellar)_division_of_md",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 239,
+                    "yh": 601,
+                    "zh": 2,
+                    "xm": 168,
+                    "ym": 223,
+                    "zm": 210
+                }
+            },
+            {
+                "label": "multiform_(lateral)_division_of_md",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 278,
+                    "yh": 525,
+                    "zh": 12,
+                    "xm": 156,
+                    "ym": 202,
+                    "zm": 204
+                }
+            },
+            {
+                "label": "ventral_subdivision_of_vlc",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 291,
+                    "yh": 508,
+                    "zh": 0,
+                    "xm": 143,
+                    "ym": 221,
+                    "zm": 202
+                }
+            },
+            {
+                "label": "medial_subdivision_of_vlc_(area_x)",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 275,
+                    "yh": 528,
+                    "zh": 2,
+                    "xm": 148,
+                    "ym": 223,
+                    "zm": 205
+                }
+            },
+            {
+                "label": "rostral_division_of_ventral_posterior_lateral_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 345,
+                    "yh": 492,
+                    "zh": 30,
+                    "xm": 139,
+                    "ym": 217,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "parvocellular_division_of_vpm",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 366,
+                    "yh": 567,
+                    "zh": 28,
+                    "xm": 150,
+                    "ym": 213,
+                    "zm": 180
+                }
+            },
+            {
+                "label": "lateral_division_of_centromedian_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 320,
+                    "yh": 549,
+                    "zh": 31,
+                    "xm": 155,
+                    "ym": 217,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "medial_division_of_centromedian_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 318,
+                    "yh": 564,
+                    "zh": 29,
+                    "xm": 158,
+                    "ym": 214,
+                    "zm": 189
+                }
+            },
+            {
+                "label": "parafascicular_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 303,
+                    "yh": 557,
+                    "zh": 32,
+                    "xm": 159,
+                    "ym": 217,
+                    "zm": 192
+                }
+            },
+            {
+                "label": "periventricular_area_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 293,
+                    "yh": 628,
+                    "zh": 28,
+                    "xm": 175,
+                    "ym": 211,
+                    "zm": 184
+                }
+            },
+            {
+                "label": "nucleus_of_the_field_of_forel",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 374,
+                    "yh": 547,
+                    "zh": 2,
+                    "xm": 148,
+                    "ym": 219,
+                    "zm": 180
+                }
+            },
+            {
+                "label": "ventral_posterior_medial_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 348,
+                    "yh": 521,
+                    "zh": 25,
+                    "xm": 144,
+                    "ym": 212,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "ventral_posterior_inferior_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 376,
+                    "yh": 540,
+                    "zh": 29,
+                    "xm": 143,
+                    "ym": 214,
+                    "zm": 183
+                }
+            },
+            {
+                "label": "lateral_division_of_central_lateral_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 306,
+                    "yh": 520,
+                    "zh": 9,
+                    "xm": 150,
+                    "ym": 200,
+                    "zm": 201
+                }
+            },
+            {
+                "label": "subparafascicular_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 307,
+                    "yh": 591,
+                    "zh": 32,
+                    "xm": 165,
+                    "ym": 216,
+                    "zm": 186
+                }
+            },
+            {
+                "label": "lateral_habenular_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 275,
+                    "yh": 591,
+                    "zh": 22,
+                    "xm": 170,
+                    "ym": 208,
+                    "zm": 193
+                }
+            },
+            {
+                "label": "lateral_posterior_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 324,
+                    "yh": 465,
+                    "zh": 4,
+                    "xm": 136,
+                    "ym": 197,
+                    "zm": 207
+                }
+            },
+            {
+                "label": "basal_ventral_medial_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 378,
+                    "yh": 554,
+                    "zh": 27,
+                    "xm": 145,
+                    "ym": 212,
+                    "zm": 180
+                }
+            },
+            {
+                "label": "dorsal_division_of_central_lateral_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 235,
+                    "yh": 507,
+                    "zh": 21,
+                    "xm": 161,
+                    "ym": 211,
+                    "zm": 213
+                }
+            },
+            {
+                "label": "medial_habenular_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 268,
+                    "yh": 607,
+                    "zh": 23,
+                    "xm": 175,
+                    "ym": 209,
+                    "zm": 192
+                }
+            },
+            {
+                "label": "anterior_nucleus_of_pulvinar",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 338,
+                    "yh": 524,
+                    "zh": 12,
+                    "xm": 146,
+                    "ym": 201,
+                    "zm": 194
+                }
+            },
+            {
+                "label": "caudal_division_of_ventral_posterior_lateral_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 364,
+                    "yh": 487,
+                    "zh": 15,
+                    "xm": 134,
+                    "ym": 205,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "parvicellular_layer_of_dlg",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 15,
+                    "xm": 31,
+                    "ym": 366,
+                    "zm": 333
+                }
+            },
+            {
+                "label": "pregeniculate_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 15,
+                    "xm": 31,
+                    "ym": 366,
+                    "zm": 333
+                }
+            },
+            {
+                "label": "posterior_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 369,
+                    "yh": 531,
+                    "zh": 9,
+                    "xm": 141,
+                    "ym": 198,
+                    "zm": 188
+                }
+            },
+            {
+                "label": "centromedian_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 331,
+                    "yh": 553,
+                    "zh": 17,
+                    "xm": 153,
+                    "ym": 204,
+                    "zm": 190
+                }
+            },
+            {
+                "label": "dorsal_lateral_geniculate_nucleus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 314,
+                    "yh": 620,
+                    "zh": 14,
+                    "xm": 119,
+                    "ym": 202,
+                    "zm": 170
+                }
+            },
+            {
+                "label": "limitans_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 356,
+                    "yh": 562,
+                    "zh": 8,
+                    "xm": 149,
+                    "ym": 196,
+                    "zm": 186
+                }
+            },
+            {
+                "label": "habenular_commissure",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 270,
+                    "yh": 613,
+                    "zh": 19,
+                    "xm": 175,
+                    "ym": 205,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "dorsal_medial_geniculate_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 397,
+                    "yh": 484,
+                    "zh": 2,
+                    "xm": 127,
+                    "ym": 194,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "ventral_medial_geniculate_nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 260,
+                    "yh": 102,
+                    "zh": 0,
+                    "xm": 151,
+                    "ym": 203,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "medial_nucleus_of_pulvinar",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 365,
+                    "yh": 335,
+                    "zh": 24,
+                    "xm": 144,
+                    "ym": 185,
+                    "zm": 194
+                }
+            },
+            {
+                "label": "magnocellular_(medial)_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 386,
+                    "yh": 510,
+                    "zh": 2,
+                    "xm": 134,
+                    "ym": 193,
+                    "zm": 189
+                }
+            },
+            {
+                "label": "limitans_part_of_medial_geniculate_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 2,
+                    "xm": 29,
+                    "ym": 343,
+                    "zm": 337
+                }
+            },
+            {
+                "label": "suprageniculate_nucleus_of_thalamus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 301,
+                    "yh": 606,
+                    "zh": 26,
+                    "xm": 115,
+                    "ym": 213,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "lateral_nucleus_of_pulvinar",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 415,
+                    "yh": 273,
+                    "zh": 26,
+                    "xm": 124,
+                    "ym": 188,
+                    "zm": 193
+                }
+            },
+            {
+                "label": "inferior_nucleus_of_pulvinar",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 455,
+                    "yh": 291,
+                    "zh": 21,
+                    "xm": 121,
+                    "ym": 182,
+                    "zm": 183
+                }
+            },
+            {
+                "label": "pulvinar_of_thalamus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 261,
+                    "yh": 109,
+                    "zh": 7,
+                    "xm": 153,
+                    "ym": 200,
+                    "zm": 174
+                }
+            },
+            {
+                "label": "commissural_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 7,
+                    "xm": 30,
+                    "ym": 352,
+                    "zm": 335
+                }
+            },
+            {
+                "label": "internal_medullary_lamina_of_thalamus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 7,
+                    "xm": 30,
+                    "ym": 352,
+                    "zm": 335
+                }
+            },
+            {
+                "label": "inferior_thalamic_peduncle",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 7,
+                    "xm": 30,
+                    "ym": 352,
+                    "zm": 335
+                }
+            },
+            {
+                "label": "superficial_pulvinar_nucleus",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 305,
+                    "yh": 349,
+                    "zh": 28,
+                    "xm": 155,
+                    "ym": 189,
+                    "zm": 203
+                }
+            },
+            {
+                "label": "intergeniculate_pulvinar",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 28,
+                    "xm": 32,
+                    "ym": 389,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "diffuse_pulvinar_nucleus",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 343,
+                    "yh": 375,
+                    "zh": 27,
+                    "xm": 155,
+                    "ym": 187,
+                    "zm": 192
+                }
+            },
+            {
+                "label": "medial_dorsal_thalamic_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 27,
+                    "xm": 32,
+                    "ym": 387,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "internal_medullary_lamina_of_thalamus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 27,
+                    "xm": 32,
+                    "ym": 387,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "dorsal_superficial_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 27,
+                    "xm": 32,
+                    "ym": 387,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "habenula",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 27,
+                    "xm": 32,
+                    "ym": 387,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "fascicles_retroflux",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 27,
+                    "xm": 32,
+                    "ym": 387,
+                    "zm": 329
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Caudate    ",
+        "data": {
+            "blockNumber": 47,
+            "xh": 218,
+            "yh": 598,
+            "zh": 17,
+            "xm": 148,
+            "ym": 294,
+            "zm": 187
+        },
+        "children": [
+            {
+                "label": "head_of_caudate",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 218,
+                    "yh": 598,
+                    "zh": 17,
+                    "xm": 148,
+                    "ym": 294,
+                    "zm": 187
+                }
+            },
+            {
+                "label": "peri-caudate_ependymal_and_subependymal_zone",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 17,
+                    "xm": 31,
+                    "ym": 369,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "body_of_caudate",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 125,
+                    "yh": 440,
+                    "zh": 19,
+                    "xm": 142,
+                    "ym": 267,
+                    "zm": 219
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Putamen   ",
+        "data": {
+            "blockNumber": 24,
+            "xh": 307,
+            "yh": 428,
+            "zh": 35,
+            "xm": 122,
+            "ym": 275,
+            "zm": 177
+        },
+        "children": [
+            {
+                "label": "putamen",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 307,
+                    "yh": 428,
+                    "zh": 35,
+                    "xm": 122,
+                    "ym": 275,
+                    "zm": 177
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Pallidum     ",
+        "data": {
+            "blockNumber": 25,
+            "xh": 275,
+            "yh": 435,
+            "zh": 14,
+            "xm": 136,
+            "ym": 136,
+            "zm": 115
+        },
+        "children": [
+            {
+                "label": "external_segment_of_globus_pallidus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 284,
+                    "yh": 493,
+                    "zh": 28,
+                    "xm": 139,
+                    "ym": 268,
+                    "zm": 178
+                }
+            },
+            {
+                "label": "internal_segment_of_globus_pallidus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 300,
+                    "yh": 498,
+                    "zh": 12,
+                    "xm": 138,
+                    "ym": 254,
+                    "zm": 176
+                }
+            },
+            {
+                "label": "internal_medullary_lamina_of_globus_pallidus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 12,
+                    "xm": 31,
+                    "ym": 361,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "Oculomotor nerve",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 191,
+                    "yh": 225,
+                    "zh": 6,
+                    "xm": 182,
+                    "ym": 215,
+                    "zm": 167
+                }
+            },
+            {
+                "label": "Cerebello-thalamic tract",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 379,
+                    "yh": 623,
+                    "zh": 12,
+                    "xm": 167,
+                    "ym": 226,
+                    "zm": 175
+                }
+            },
+            {
+                "label": "Fasciculus retroflexus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 315,
+                    "yh": 600,
+                    "zh": 26,
+                    "xm": 165,
+                    "ym": 210,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "pontine_nucleus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 129,
+                    "yh": 128,
+                    "zh": 5,
+                    "xm": 157,
+                    "ym": 216,
+                    "zm": 131
+                }
+            },
+            {
+                "label": "Transverse pontocerebellar tracts",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 164,
+                    "yh": 135,
+                    "zh": 36,
+                    "xm": 159,
+                    "ym": 198,
+                    "zm": 113
+                }
+            },
+            {
+                "label": "Ventral tegmental area",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 198,
+                    "yh": 187,
+                    "zh": 0,
+                    "xm": 172,
+                    "ym": 215,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "interpeduncular_nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 108,
+                    "yh": 193,
+                    "zh": 15,
+                    "xm": 175,
+                    "ym": 227,
+                    "zm": 147
+                }
+            },
+            {
+                "label": "Edinger-westphal_nucleus_(accessory_oculomotor_nucleus)",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 279,
+                    "yh": 195,
+                    "zh": 7,
+                    "xm": 175,
+                    "ym": 197,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "Oculomotor nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 273,
+                    "yh": 202,
+                    "zh": 8,
+                    "xm": 176,
+                    "ym": 198,
+                    "zm": 178
+                }
+            },
+            {
+                "label": "Periaqueductal gray",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 263,
+                    "yh": 192,
+                    "zh": 15,
+                    "xm": 174,
+                    "ym": 197,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "Decussation of superior cerebellar peduncle",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 207,
+                    "yh": 186,
+                    "zh": 25,
+                    "xm": 174,
+                    "ym": 204,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "posterior_commisure",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 286,
+                    "yh": 626,
+                    "zh": 21,
+                    "xm": 175,
+                    "ym": 206,
+                    "zm": 186
+                }
+            },
+            {
+                "label": "Medial lemniscus",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 185,
+                    "yh": 134,
+                    "zh": 21,
+                    "xm": 170,
+                    "ym": 181,
+                    "zm": 110
+                }
+            },
+            {
+                "label": "Superior colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 297,
+                    "yh": 172,
+                    "zh": 6,
+                    "xm": 169,
+                    "ym": 194,
+                    "zm": 182
+                }
+            },
+            {
+                "label": "Lateral lemniscus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 275,
+                    "yh": 151,
+                    "zh": 1,
+                    "xm": 158,
+                    "ym": 189,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "Trochlear nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 255,
+                    "yh": 193,
+                    "zh": 16,
+                    "xm": 175,
+                    "ym": 198,
+                    "zm": 169
+                }
+            },
+            {
+                "label": "Dorsal raphe nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 251,
+                    "yh": 209,
+                    "zh": 16,
+                    "xm": 179,
+                    "ym": 199,
+                    "zm": 169
+                }
+            },
+            {
+                "label": "brachium of inferior colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 305,
+                    "yh": 132,
+                    "zh": 19,
+                    "xm": 160,
+                    "ym": 187,
+                    "zm": 173
+                }
+            },
+            {
+                "label": "brachium_of_superior_colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 268,
+                    "yh": 76,
+                    "zh": 0,
+                    "xm": 145,
+                    "ym": 201,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "Pontine reticular formation",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 222,
+                    "yh": 126,
+                    "zh": 27,
+                    "xm": 170,
+                    "ym": 172,
+                    "zm": 112
+                }
+            },
+            {
+                "label": "Medial longitudinal fasciculus\u00a0\u00a0",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 242,
+                    "yh": 180,
+                    "zh": 30,
+                    "xm": 172,
+                    "ym": 195,
+                    "zm": 157
+                }
+            },
+            {
+                "label": "Superior cerebellar peduncle",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 267,
+                    "yh": 184,
+                    "zh": 9,
+                    "xm": 166,
+                    "ym": 186,
+                    "zm": 152
+                }
+            },
+            {
+                "label": "root_of_trochlear_nerve",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 283,
+                    "yh": 211,
+                    "zh": 1,
+                    "xm": 172,
+                    "ym": 186,
+                    "zm": 162
+                }
+            },
+            {
+                "label": "central_nucleus_of_inferior_colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 302,
+                    "yh": 158,
+                    "zh": 11,
+                    "xm": 166,
+                    "ym": 191,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "Parabigeminal nucleus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 283,
+                    "yh": 115,
+                    "zh": 20,
+                    "xm": 156,
+                    "ym": 191,
+                    "zm": 168
+                }
+            },
+            {
+                "label": "Middle cerebellar peduncle",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 182,
+                    "yh": 96,
+                    "zh": 20,
+                    "xm": 148,
+                    "ym": 201,
+                    "zm": 126
+                }
+            },
+            {
+                "label": "lateral_parabrachial_nucleus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 306,
+                    "yh": 179,
+                    "zh": 13,
+                    "xm": 164,
+                    "ym": 177,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "pons",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 274,
+                    "yh": 170,
+                    "zh": 1,
+                    "xm": 162,
+                    "ym": 188,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "medial_parabrachial_nucleus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 280,
+                    "yh": 175,
+                    "zh": 32,
+                    "xm": 165,
+                    "ym": 176,
+                    "zm": 136
+                }
+            },
+            {
+                "label": "commissure_of_inferiro_colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 303,
+                    "yh": 200,
+                    "zh": 20,
+                    "xm": 177,
+                    "ym": 187,
+                    "zm": 174
+                }
+            },
+            {
+                "label": "Nucleus coeruleus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 274,
+                    "yh": 194,
+                    "zh": 34,
+                    "xm": 170,
+                    "ym": 176,
+                    "zm": 135
+                }
+            },
+            {
+                "label": "Central tegmental tract",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 169,
+                    "yh": 111,
+                    "zh": 33,
+                    "xm": 166,
+                    "ym": 178,
+                    "zm": 99
+                }
+            },
+            {
+                "label": "Spinal lemniscus (spinothalamic and spinotectal)",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 243,
+                    "yh": 151,
+                    "zh": 14,
+                    "xm": 159,
+                    "ym": 190,
+                    "zm": 143
+                }
+            },
+            {
+                "label": "Dorsal nucleus of lateral lemniscus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 152,
+                    "yh": 66,
+                    "zh": 0,
+                    "xm": 141,
+                    "ym": 215,
+                    "zm": 135
+                }
+            },
+            {
+                "label": "ventral_nucleus_of_lateral_lemniscus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 285,
+                    "yh": 138,
+                    "zh": 36,
+                    "xm": 156,
+                    "ym": 174,
+                    "zm": 132
+                }
+            },
+            {
+                "label": "Mesencephalic trigeminal tract",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 256,
+                    "yh": 107,
+                    "zh": 12,
+                    "xm": 164,
+                    "ym": 169,
+                    "zm": 127
+                }
+            },
+            {
+                "label": "Central gray of pons",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 276,
+                    "yh": 217,
+                    "zh": 21,
+                    "xm": 175,
+                    "ym": 180,
+                    "zm": 146
+                }
+            },
+            {
+                "label": "white_matter_of_hindbrain",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 275,
+                    "yh": 435,
+                    "zh": 14,
+                    "xm": 136,
+                    "ym": 136,
+                    "zm": 115
+                }
+            },
+            {
+                "label": "Anterior medullary velum",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 305,
+                    "yh": 239,
+                    "zh": 12,
+                    "xm": 178,
+                    "ym": 177,
+                    "zm": 159
+                }
+            },
+            {
+                "label": "Facial nerve",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 226,
+                    "yh": 134,
+                    "zh": 20,
+                    "xm": 171,
+                    "ym": 174,
+                    "zm": 117
+                }
+            },
+            {
+                "label": "motor_nucleus_of_trigeminal_nerve",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 228,
+                    "yh": 130,
+                    "zh": 4,
+                    "xm": 168,
+                    "ym": 179,
+                    "zm": 127
+                }
+            },
+            {
+                "label": "Mesencephalic trigeminal nucleus",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 299,
+                    "yh": 215,
+                    "zh": 16,
+                    "xm": 173,
+                    "ym": 177,
+                    "zm": 153
+                }
+            },
+            {
+                "label": "Nucleus of trapezoid body",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 165,
+                    "yh": 105,
+                    "zh": 28,
+                    "xm": 164,
+                    "ym": 180,
+                    "zm": 101
+                }
+            },
+            {
+                "label": "Medial superior olive",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 181,
+                    "yh": 105,
+                    "zh": 28,
+                    "xm": 164,
+                    "ym": 177,
+                    "zm": 104
+                }
+            },
+            {
+                "label": "inferior_olive_principal_nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 152,
+                    "yh": 102,
+                    "zh": 13,
+                    "xm": 163,
+                    "ym": 162,
+                    "zm": 87
+                }
+            },
+            {
+                "label": "amiculum_of_the_olive",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 148,
+                    "yh": 114,
+                    "zh": 18,
+                    "xm": 160,
+                    "ym": 161,
+                    "zm": 83
+                }
+            },
+            {
+                "label": "principal_sensory_nucleus_of_trigeminal_nerve",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 233,
+                    "yh": 115,
+                    "zh": 5,
+                    "xm": 164,
+                    "ym": 177,
+                    "zm": 127
+                }
+            },
+            {
+                "label": "Lateral superior olive",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 180,
+                    "yh": 96,
+                    "zh": 28,
+                    "xm": 162,
+                    "ym": 177,
+                    "zm": 103
+                }
+            },
+            {
+                "label": "myelencephalon_(medulla_oblongata)",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 118,
+                    "yh": 102,
+                    "zh": 15,
+                    "xm": 163,
+                    "ym": 169,
+                    "zm": 81
+                }
+            },
+            {
+                "label": "Facial nucleus",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 184,
+                    "yh": 97,
+                    "zh": 33,
+                    "xm": 163,
+                    "ym": 175,
+                    "zm": 101
+                }
+            },
+            {
+                "label": "Spinal trigeminal",
+                "data": {
+                    "blockNumber": 49,
+                    "xh": 46,
+                    "yh": 50,
+                    "zh": 15,
+                    "xm": 166,
+                    "ym": 141,
+                    "zm": 67
+                }
+            },
+            {
+                "label": "inferior_olive_medial_nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 154,
+                    "yh": 54,
+                    "zh": 12,
+                    "xm": 175,
+                    "ym": 162,
+                    "zm": 88
+                }
+            },
+            {
+                "label": "spinal_trigeminal_tract",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 107,
+                    "yh": 132,
+                    "zh": 8,
+                    "xm": 155,
+                    "ym": 174,
+                    "zm": 84
+                }
+            },
+            {
+                "label": "Abducens nucleus",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 260,
+                    "yh": 136,
+                    "zh": 25,
+                    "xm": 173,
+                    "ym": 166,
+                    "zm": 120
+                }
+            },
+            {
+                "label": "Superior vestibular",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 242,
+                    "yh": 152,
+                    "zh": 16,
+                    "xm": 175,
+                    "ym": 173,
+                    "zm": 123
+                }
+            },
+            {
+                "label": "inferior_olive_dorsal_nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 118,
+                    "yh": 69,
+                    "zh": 15,
+                    "xm": 171,
+                    "ym": 168,
+                    "zm": 81
+                }
+            },
+            {
+                "label": "solitary_tract",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 124,
+                    "yh": 73,
+                    "zh": 30,
+                    "xm": 170,
+                    "ym": 160,
+                    "zm": 72
+                }
+            },
+            {
+                "label": "Ventral cochlear nucleus",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 169,
+                    "yh": 40,
+                    "zh": 33,
+                    "xm": 149,
+                    "ym": 174,
+                    "zm": 97
+                }
+            },
+            {
+                "label": "Lateral vestibular",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 251,
+                    "yh": 87,
+                    "zh": 24,
+                    "xm": 161,
+                    "ym": 165,
+                    "zm": 118
+                }
+            },
+            {
+                "label": "ambiguus_nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 101,
+                    "yh": 98,
+                    "zh": 12,
+                    "xm": 164,
+                    "ym": 173,
+                    "zm": 81
+                }
+            },
+            {
+                "label": "Medial vestibular",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 56,
+                    "yh": 79,
+                    "zh": 4,
+                    "xm": 169,
+                    "ym": 187,
+                    "zm": 80
+                }
+            },
+            {
+                "label": "Medullary reticular formation",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 88,
+                    "yh": 73,
+                    "zh": 1,
+                    "xm": 170,
+                    "ym": 181,
+                    "zm": 87
+                }
+            },
+            {
+                "label": "Inferior cerebellar peduncle",
+                "data": {
+                    "blockNumber": 37,
+                    "xh": 213,
+                    "yh": 56,
+                    "zh": 33,
+                    "xm": 154,
+                    "ym": 167,
+                    "zm": 105
+                }
+            },
+            {
+                "label": "Inferior Vestibular",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 61,
+                    "yh": 108,
+                    "zh": 16,
+                    "xm": 162,
+                    "ym": 180,
+                    "zm": 72
+                }
+            },
+            {
+                "label": "Solitary nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 91,
+                    "yh": 93,
+                    "zh": 29,
+                    "xm": 166,
+                    "ym": 167,
+                    "zm": 68
+                }
+            },
+            {
+                "label": "Hypoglossal nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 58,
+                    "yh": 70,
+                    "zh": 8,
+                    "xm": 171,
+                    "ym": 184,
+                    "zm": 78
+                }
+            },
+            {
+                "label": "dorsal_motor_nucleus_of_the_vagus_(vagal_nucleus)",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 79,
+                    "yh": 90,
+                    "zh": 28,
+                    "xm": 166,
+                    "ym": 170,
+                    "zm": 67
+                }
+            },
+            {
+                "label": "external_(accessory/lateral)_cuneate_nucleus",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 84,
+                    "yh": 104,
+                    "zh": 30,
+                    "xm": 163,
+                    "ym": 168,
+                    "zm": 66
+                }
+            },
+            {
+                "label": "Dorsal cochlear",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 60,
+                    "yh": 147,
+                    "zh": 3,
+                    "xm": 152,
+                    "ym": 187,
+                    "zm": 81
+                }
+            },
+            {
+                "label": "Cuneate nucleus",
+                "data": {
+                    "blockNumber": 49,
+                    "xh": 36,
+                    "yh": 38,
+                    "zh": 1,
+                    "xm": 171,
+                    "ym": 133,
+                    "zm": 61
+                }
+            },
+            {
+                "label": "Gracile nucleus",
+                "data": {
+                    "blockNumber": 49,
+                    "xh": 24,
+                    "yh": 23,
+                    "zh": 0,
+                    "xm": 174,
+                    "ym": 130,
+                    "zm": 63
+                }
+            },
+            {
+                "label": "Central gray of medulla",
+                "data": {
+                    "blockNumber": 15,
+                    "xh": 61,
+                    "yh": 92,
+                    "zh": 22,
+                    "xm": 166,
+                    "ym": 177,
+                    "zm": 68
+                }
+            },
+            {
+                "label": "Spinal accessory nucleus",
+                "data": {
+                    "blockNumber": 49,
+                    "xh": 80,
+                    "yh": 26,
+                    "zh": 26,
+                    "xm": 170,
+                    "ym": 153,
+                    "zm": 71
+                }
+            },
+            {
+                "label": "Corticospinal tract",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 130,
+                    "yh": 114,
+                    "zh": 20,
+                    "xm": 156,
+                    "ym": 220,
+                    "zm": 145
+                }
+            },
+            {
+                "label": "Parietotemporopontine tract",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 203,
+                    "yh": 77,
+                    "zh": 15,
+                    "xm": 146,
+                    "ym": 208,
+                    "zm": 159
+                }
+            },
+            {
+                "label": "Corticonuclear tract",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 122,
+                    "yh": 140,
+                    "zh": 13,
+                    "xm": 162,
+                    "ym": 225,
+                    "zm": 149
+                }
+            },
+            {
+                "label": "Frontopontine tract",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 154,
+                    "yh": 155,
+                    "zh": 14,
+                    "xm": 165,
+                    "ym": 218,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "Decussation of trochlear nerve fibers",
+                "data": {
+                    "blockNumber": 18,
+                    "xh": 290,
+                    "yh": 219,
+                    "zh": 23,
+                    "xm": 175,
+                    "ym": 176,
+                    "zm": 147
+                }
+            },
+            {
+                "label": "reticular_formation_/_cuneiform_area",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 252,
+                    "yh": 148,
+                    "zh": 20,
+                    "xm": 164,
+                    "ym": 197,
+                    "zm": 164
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Hippocampus  ",
+        "data": {
+            "blockNumber": 9,
+            "xh": 334,
+            "yh": 615,
+            "zh": 31,
+            "xm": 119,
+            "ym": 216,
+            "zm": 163
+        },
+        "children": [
+            {
+                "label": "indusium_griseum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 31,
+                    "xm": 33,
+                    "ym": 394,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "amygdalohippocampal_transition_area",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 199,
+                    "yh": 646,
+                    "zh": 24,
+                    "xm": 144,
+                    "ym": 234,
+                    "zm": 145
+                }
+            },
+            {
+                "label": null,
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 229,
+                    "yh": 600,
+                    "zh": 19,
+                    "xm": 130,
+                    "ym": 230,
+                    "zm": 143
+                }
+            },
+            {
+                "label": "uncal_prosubiculum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_uncal_ca1",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 241,
+                    "yh": 578,
+                    "zh": 13,
+                    "xm": 123,
+                    "ym": 225,
+                    "zm": 143
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_uncal_ca1",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 224,
+                    "yh": 563,
+                    "zh": 6,
+                    "xm": 121,
+                    "ym": 220,
+                    "zm": 149
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_uncal_ca1",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 230,
+                    "yh": 580,
+                    "zh": 17,
+                    "xm": 125,
+                    "ym": 228,
+                    "zm": 144
+                }
+            },
+            {
+                "label": "stratum_oriens_of_uncal_ca1",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 231,
+                    "yh": 567,
+                    "zh": 18,
+                    "xm": 122,
+                    "ym": 230,
+                    "zm": 146
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_rostral_ca1",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 384,
+                    "yh": 546,
+                    "zh": 18,
+                    "xm": 102,
+                    "ym": 204,
+                    "zm": 151
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_rostral_ca1",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 369,
+                    "yh": 545,
+                    "zh": 5,
+                    "xm": 100,
+                    "ym": 194,
+                    "zm": 156
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_rostral_ca1",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 376,
+                    "yh": 549,
+                    "zh": 6,
+                    "xm": 102,
+                    "ym": 194,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "stratum_oriens_of_rostral_ca1",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 396,
+                    "yh": 545,
+                    "zh": 9,
+                    "xm": 101,
+                    "ym": 196,
+                    "zm": 149
+                }
+            },
+            {
+                "label": "rostral_subiculum",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 396,
+                    "yh": 609,
+                    "zh": 24,
+                    "xm": 119,
+                    "ym": 208,
+                    "zm": 148
+                }
+            },
+            {
+                "label": "rostral_prosubiculum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 24,
+                    "xm": 32,
+                    "ym": 382,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "alveus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 365,
+                    "yh": 576,
+                    "zh": 29,
+                    "xm": 110,
+                    "ym": 214,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "rostral_presubiculum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "molecular_layer_of_uncal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 230,
+                    "yh": 557,
+                    "zh": 1,
+                    "xm": 119,
+                    "ym": 215,
+                    "zm": 148
+                }
+            },
+            {
+                "label": "granular_layer_of_uncal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 296,
+                    "yh": 691,
+                    "zh": 33,
+                    "xm": 137,
+                    "ym": 217,
+                    "zm": 173
+                }
+            },
+            {
+                "label": "polyform_layer_of_uncal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 303,
+                    "yh": 683,
+                    "zh": 33,
+                    "xm": 135,
+                    "ym": 217,
+                    "zm": 172
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_uncal_ca2",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 208,
+                    "yh": 567,
+                    "zh": 2,
+                    "xm": 123,
+                    "ym": 216,
+                    "zm": 153
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_uncal_ca2",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 207,
+                    "yh": 575,
+                    "zh": 5,
+                    "xm": 125,
+                    "ym": 219,
+                    "zm": 152
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_uncal_ca2",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 198,
+                    "yh": 570,
+                    "zh": 5,
+                    "xm": 125,
+                    "ym": 219,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "stratum_oriens_of_uncal_ca2",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 195,
+                    "yh": 557,
+                    "zh": 5,
+                    "xm": 122,
+                    "ym": 219,
+                    "zm": 156
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_uncal_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 305,
+                    "yh": 647,
+                    "zh": 31,
+                    "xm": 126,
+                    "ym": 216,
+                    "zm": 170
+                }
+            },
+            {
+                "label": "stratum_lucidum__of_uncal_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 297,
+                    "yh": 655,
+                    "zh": 32,
+                    "xm": 128,
+                    "ym": 217,
+                    "zm": 173
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_uncal_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 375,
+                    "yh": 625,
+                    "zh": 29,
+                    "xm": 122,
+                    "ym": 213,
+                    "zm": 153
+                }
+            },
+            {
+                "label": "stratum_oriens_of_uncal_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 377,
+                    "yh": 627,
+                    "zh": 28,
+                    "xm": 123,
+                    "ym": 212,
+                    "zm": 153
+                }
+            },
+            {
+                "label": "rostral_dentate_gyrus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 28,
+                    "xm": 32,
+                    "ym": 389,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "molecular_layer_of_rostral_dentate_gyrus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 387,
+                    "yh": 554,
+                    "zh": 23,
+                    "xm": 105,
+                    "ym": 208,
+                    "zm": 150
+                }
+            },
+            {
+                "label": "granular_layer_of_rostral_dentate_gyrus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 398,
+                    "yh": 553,
+                    "zh": 29,
+                    "xm": 105,
+                    "ym": 213,
+                    "zm": 146
+                }
+            },
+            {
+                "label": "polyform_layer_of_rostral_dentate_gyrus",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 392,
+                    "yh": 543,
+                    "zh": 27,
+                    "xm": 102,
+                    "ym": 212,
+                    "zm": 148
+                }
+            },
+            {
+                "label": " stratum_lacunosum-moleculare_of_rostral_ca2",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 344,
+                    "yh": 524,
+                    "zh": 7,
+                    "xm": 95,
+                    "ym": 196,
+                    "zm": 161
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_rostral_ca2",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 347,
+                    "yh": 531,
+                    "zh": 15,
+                    "xm": 97,
+                    "ym": 203,
+                    "zm": 160
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_rostral_ca2",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 333,
+                    "yh": 520,
+                    "zh": 0,
+                    "xm": 93,
+                    "ym": 191,
+                    "zm": 165
+                }
+            },
+            {
+                "label": "stratum_oriens_of_rostral_ca2",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 331,
+                    "yh": 517,
+                    "zh": 0,
+                    "xm": 92,
+                    "ym": 191,
+                    "zm": 165
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_rostral_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 307,
+                    "yh": 597,
+                    "zh": 33,
+                    "xm": 114,
+                    "ym": 219,
+                    "zm": 169
+                }
+            },
+            {
+                "label": "stratum_lucidum__of_rostral_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 313,
+                    "yh": 580,
+                    "zh": 31,
+                    "xm": 110,
+                    "ym": 217,
+                    "zm": 167
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_rostral_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 318,
+                    "yh": 586,
+                    "zh": 31,
+                    "xm": 111,
+                    "ym": 217,
+                    "zm": 166
+                }
+            },
+            {
+                "label": "stratum_oriens_of_rostral_ca3",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 366,
+                    "yh": 559,
+                    "zh": 29,
+                    "xm": 106,
+                    "ym": 214,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "pyramidal_cells_of_uncal_ca4",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 310,
+                    "yh": 668,
+                    "zh": 31,
+                    "xm": 132,
+                    "ym": 215,
+                    "zm": 170
+                }
+            },
+            {
+                "label": "pyramidal_cells_of_rostral_ca4",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 383,
+                    "yh": 551,
+                    "zh": 26,
+                    "xm": 104,
+                    "ym": 211,
+                    "zm": 150
+                }
+            },
+            {
+                "label": "fimbria",
+                "data": {
+                    "blockNumber": 9,
+                    "xh": 352,
+                    "yh": 583,
+                    "zh": 28,
+                    "xm": 111,
+                    "ym": 213,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "hippocampus_(hippocampal_formation)",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 28,
+                    "xm": 32,
+                    "ym": 389,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "molecular_layer_of_caudal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 441,
+                    "yh": 273,
+                    "zh": 5,
+                    "xm": 119,
+                    "ym": 169,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "granular_layer_of_caudal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 444,
+                    "yh": 273,
+                    "zh": 4,
+                    "xm": 119,
+                    "ym": 168,
+                    "zm": 190
+                }
+            },
+            {
+                "label": "polyform_layer_of_caudal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 389,
+                    "yh": 300,
+                    "zh": 7,
+                    "xm": 132,
+                    "ym": 171,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_caudal_ca1 ",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 403,
+                    "yh": 295,
+                    "zh": 3,
+                    "xm": 129,
+                    "ym": 167,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_caudal_ca1",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 478,
+                    "yh": 280,
+                    "zh": 2,
+                    "xm": 115,
+                    "ym": 166,
+                    "zm": 183
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_caudal_ca1",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 388,
+                    "yh": 294,
+                    "zh": 0,
+                    "xm": 131,
+                    "ym": 165,
+                    "zm": 199
+                }
+            },
+            {
+                "label": "stratum_oriens_of_caudal_ca1",
+                "data": {
+                    "blockNumber": 13,
+                    "xh": 408,
+                    "yh": 296,
+                    "zh": 11,
+                    "xm": 120,
+                    "ym": 157,
+                    "zm": 191
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_caudal_ca2",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 475,
+                    "yh": 247,
+                    "zh": 1,
+                    "xm": 109,
+                    "ym": 166,
+                    "zm": 189
+                }
+            },
+            {
+                "label": "stratum_radiatum_of_caudal_ca2",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 377,
+                    "yh": 292,
+                    "zh": 3,
+                    "xm": 132,
+                    "ym": 168,
+                    "zm": 201
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_caudal_ca2",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 392,
+                    "yh": 270,
+                    "zh": 0,
+                    "xm": 126,
+                    "ym": 166,
+                    "zm": 202
+                }
+            },
+            {
+                "label": "stratum_oriens_of_caudal_ca2",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 388,
+                    "yh": 278,
+                    "zh": 2,
+                    "xm": 128,
+                    "ym": 167,
+                    "zm": 201
+                }
+            },
+            {
+                "label": "stratum_lacunosum-moleculare_of_caudal_ca3",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 386,
+                    "yh": 325,
+                    "zh": 4,
+                    "xm": 137,
+                    "ym": 168,
+                    "zm": 194
+                }
+            },
+            {
+                "label": "stratum_lucidum__of_caudal_ca3",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 375,
+                    "yh": 317,
+                    "zh": 5,
+                    "xm": 137,
+                    "ym": 169,
+                    "zm": 197
+                }
+            },
+            {
+                "label": "stratum_pyramidale_of_caudal_ca3",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 377,
+                    "yh": 296,
+                    "zh": 4,
+                    "xm": 133,
+                    "ym": 169,
+                    "zm": 200
+                }
+            },
+            {
+                "label": "stratum_oriens_of_caudal_ca3",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 382,
+                    "yh": 318,
+                    "zh": 8,
+                    "xm": 137,
+                    "ym": 171,
+                    "zm": 195
+                }
+            },
+            {
+                "label": "pyramidal_cells_of_caudal_ca4",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 439,
+                    "yh": 266,
+                    "zh": 3,
+                    "xm": 118,
+                    "ym": 168,
+                    "zm": 192
+                }
+            },
+            {
+                "label": "caudal_subiculum",
+                "data": {
+                    "blockNumber": 3,
+                    "xh": 434,
+                    "yh": 305,
+                    "zh": 3,
+                    "xm": 126,
+                    "ym": 167,
+                    "zm": 187
+                }
+            },
+            {
+                "label": "caudal_prosubiculum",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 3,
+                    "xm": 30,
+                    "ym": 345,
+                    "zm": 337
+                }
+            },
+            {
+                "label": "caudal_dentate_gyrus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 3,
+                    "xm": 30,
+                    "ym": 345,
+                    "zm": 337
+                }
+            },
+            {
+                "label": "supracallosal_subiculum ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 3,
+                    "xm": 30,
+                    "ym": 345,
+                    "zm": 337
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Amygdala ",
+        "data": {
+            "blockNumber": 19,
+            "xh": 189,
+            "yh": 535,
+            "zh": 4,
+            "xm": 121,
+            "ym": 244,
+            "zm": 141
+        },
+        "children": [
+            {
+                "label": "amygdaloid_complex",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 149,
+                    "yh": 518,
+                    "zh": 8,
+                    "xm": 120,
+                    "ym": 249,
+                    "zm": 151
+                }
+            },
+            {
+                "label": "anterior_amygdaloid_area",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 191,
+                    "yh": 490,
+                    "zh": 18,
+                    "xm": 110,
+                    "ym": 256,
+                    "zm": 142
+                }
+            },
+            {
+                "label": "basolateral_nucleus_(basal_nucleus)",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 185,
+                    "yh": 552,
+                    "zh": 0,
+                    "xm": 125,
+                    "ym": 240,
+                    "zm": 141
+                }
+            },
+            {
+                "label": "ventral_division_of_basomedial_nucleus",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 195,
+                    "yh": 580,
+                    "zh": 26,
+                    "xm": 129,
+                    "ym": 237,
+                    "zm": 151
+                }
+            },
+            {
+                "label": "ventral_subdivision_of_coa",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 168,
+                    "yh": 589,
+                    "zh": 24,
+                    "xm": 134,
+                    "ym": 236,
+                    "zm": 157
+                }
+            },
+            {
+                "label": "paralaminar_nucleus",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 205,
+                    "yh": 592,
+                    "zh": 5,
+                    "xm": 133,
+                    "ym": 243,
+                    "zm": 132
+                }
+            },
+            {
+                "label": "amygdalocortical_(corticoamygdaloid)_transition_area",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 137,
+                    "yh": 569,
+                    "zh": 11,
+                    "xm": 133,
+                    "ym": 250,
+                    "zm": 149
+                }
+            },
+            {
+                "label": "dorsal_subdivision_of_coa",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 11,
+                    "xm": 30,
+                    "ym": 359,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "medial_subdivision_of_central_nucleus",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 168,
+                    "yh": 534,
+                    "zh": 29,
+                    "xm": 121,
+                    "ym": 241,
+                    "zm": 162
+                }
+            },
+            {
+                "label": "lateral_subdivision_of_central_nucleus",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 190,
+                    "yh": 518,
+                    "zh": 26,
+                    "xm": 115,
+                    "ym": 238,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "rostral_subdivision_of_medial_nucleus",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 158,
+                    "yh": 559,
+                    "zh": 26,
+                    "xm": 128,
+                    "ym": 238,
+                    "zm": 162
+                }
+            },
+            {
+                "label": "dorsal_subdivision_of_cop",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 26,
+                    "xm": 32,
+                    "ym": 385,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "amygdalostriatal_transition_area",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 194,
+                    "yh": 503,
+                    "zh": 28,
+                    "xm": 111,
+                    "ym": 240,
+                    "zm": 159
+                }
+            },
+            {
+                "label": "ventral_subdivision_of_cop",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 28,
+                    "xm": 32,
+                    "ym": 389,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "amygdalohippocampal_area",
+                "data": {
+                    "blockNumber": 41,
+                    "xh": 185,
+                    "yh": 633,
+                    "zh": 29,
+                    "xm": 142,
+                    "ym": 238,
+                    "zm": 149
+                }
+            },
+            {
+                "label": "caudal_subdivision_of_medial_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "central_nuclear_group",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "lateral_nucleus",
+                "data": {
+                    "blockNumber": 19,
+                    "xh": 222,
+                    "yh": 508,
+                    "zh": 3,
+                    "xm": 112,
+                    "ym": 243,
+                    "zm": 135
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-Accumbens-area",
+        "data": {
+            "blockNumber": 47,
+            "xh": 320,
+            "yh": 641,
+            "zh": 8,
+            "xm": 154,
+            "ym": 280,
+            "zm": 162
+        },
+        "children": [
+            {
+                "label": "shell_of_nucleus_accumbens ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 8,
+                    "xm": 30,
+                    "ym": 354,
+                    "zm": 335
+                }
+            },
+            {
+                "label": "olfactory_tubercle",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 336,
+                    "yh": 669,
+                    "zh": 3,
+                    "xm": 160,
+                    "ym": 274,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "core_of_nucleus_accumbens",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 320,
+                    "yh": 640,
+                    "zh": 8,
+                    "xm": 154,
+                    "ym": 280,
+                    "zm": 162
+                }
+            }
+        ]
+    },
+    {
+        "label": "Left-VentralDC",
+        "data": {
+            "blockNumber": 45,
+            "xh": 394,
+            "yh": 599,
+            "zh": 18,
+            "xm": 160,
+            "ym": 231,
+            "zm": 171
+        },
+        "children": [
+            {
+                "label": "preoptic_region_of_hth",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 289,
+                    "yh": 616,
+                    "zh": 24,
+                    "xm": 167,
+                    "ym": 261,
+                    "zm": 167
+                }
+            },
+            {
+                "label": "lateral_preoptic_area ",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 293,
+                    "yh": 590,
+                    "zh": 21,
+                    "xm": 161,
+                    "ym": 259,
+                    "zm": 169
+                }
+            },
+            {
+                "label": "median_preoptic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 285,
+                    "yh": 627,
+                    "zh": 32,
+                    "xm": 171,
+                    "ym": 268,
+                    "zm": 166
+                }
+            },
+            {
+                "label": "suprachiasmatic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 339,
+                    "yh": 642,
+                    "zh": 32,
+                    "xm": 169,
+                    "ym": 266,
+                    "zm": 153
+                }
+            },
+            {
+                "label": "organum_vasculosum_laminae_terminalis",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 32,
+                    "xm": 33,
+                    "ym": 396,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "hypothalamus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 32,
+                    "xm": 33,
+                    "ym": 396,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "anteroventral_periventricular_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 32,
+                    "xm": 33,
+                    "ym": 396,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "supraoptic_region_of_hth",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 338,
+                    "yh": 641,
+                    "zh": 23,
+                    "xm": 168,
+                    "ym": 258,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "uncinate_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 23,
+                    "xm": 32,
+                    "ym": 380,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "medial_preoptic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 294,
+                    "yh": 608,
+                    "zh": 28,
+                    "xm": 165,
+                    "ym": 265,
+                    "zm": 166
+                }
+            },
+            {
+                "label": "anterior_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 322,
+                    "yh": 632,
+                    "zh": 31,
+                    "xm": 168,
+                    "ym": 265,
+                    "zm": 157
+                }
+            },
+            {
+                "label": "paraventricular_nucleus_of_hypothalamus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 272,
+                    "yh": 621,
+                    "zh": 17,
+                    "xm": 170,
+                    "ym": 256,
+                    "zm": 172
+                }
+            },
+            {
+                "label": "retrochiasmatic_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 17,
+                    "xm": 31,
+                    "ym": 369,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "supraoptic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 341,
+                    "yh": 608,
+                    "zh": 24,
+                    "xm": 161,
+                    "ym": 259,
+                    "zm": 156
+                }
+            },
+            {
+                "label": "subparaventricular_zone",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 24,
+                    "xm": 32,
+                    "ym": 382,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "median_eminence",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 24,
+                    "xm": 32,
+                    "ym": 382,
+                    "zm": 330
+                }
+            },
+            {
+                "label": "periventricular_nucleus__supraoptic_portion",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 335,
+                    "yh": 650,
+                    "zh": 21,
+                    "xm": 171,
+                    "ym": 256,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "periventricular_nucleus__tuberal_portion",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 317,
+                    "yh": 638,
+                    "zh": 15,
+                    "xm": 170,
+                    "ym": 252,
+                    "zm": 160
+                }
+            },
+            {
+                "label": "juxtaparaventricular_lateral_hypothalamic_area",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 282,
+                    "yh": 614,
+                    "zh": 18,
+                    "xm": 168,
+                    "ym": 256,
+                    "zm": 170
+                }
+            },
+            {
+                "label": "dorsomedial_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 289,
+                    "yh": 623,
+                    "zh": 26,
+                    "xm": 169,
+                    "ym": 263,
+                    "zm": 166
+                }
+            },
+            {
+                "label": "lateral_hypothalamic_area__tuberal_part",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 326,
+                    "yh": 629,
+                    "zh": 19,
+                    "xm": 167,
+                    "ym": 255,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "accessory_secretory_cells_of_lateral_hypothalamus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 19,
+                    "xm": 31,
+                    "ym": 373,
+                    "zm": 332
+                }
+            },
+            {
+                "label": "pallidohypothalamic_area",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 332,
+                    "yh": 567,
+                    "zh": 8,
+                    "xm": 151,
+                    "ym": 247,
+                    "zm": 164
+                }
+            },
+            {
+                "label": "medial_corticohypothalamic_tract",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 240,
+                    "yh": 589,
+                    "zh": 18,
+                    "xm": 166,
+                    "ym": 258,
+                    "zm": 181
+                }
+            },
+            {
+                "label": "dorsal_part_of_ventromedial_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 298,
+                    "yh": 627,
+                    "zh": 17,
+                    "xm": 169,
+                    "ym": 254,
+                    "zm": 165
+                }
+            },
+            {
+                "label": "ventral_part_of_ventromedial_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 324,
+                    "yh": 630,
+                    "zh": 16,
+                    "xm": 167,
+                    "ym": 253,
+                    "zm": 159
+                }
+            },
+            {
+                "label": "arcuate_nucleus_of_hypothalamus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 340,
+                    "yh": 658,
+                    "zh": 13,
+                    "xm": 172,
+                    "ym": 249,
+                    "zm": 154
+                }
+            },
+            {
+                "label": "central_part_of_ventromedial_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 333,
+                    "yh": 637,
+                    "zh": 20,
+                    "xm": 168,
+                    "ym": 256,
+                    "zm": 156
+                }
+            },
+            {
+                "label": "tuberomammillary_nucleus ",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 332,
+                    "yh": 613,
+                    "zh": 14,
+                    "xm": 162,
+                    "ym": 251,
+                    "zm": 159
+                }
+            },
+            {
+                "label": "lateral_tuberal_nuclei",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 334,
+                    "yh": 582,
+                    "zh": 10,
+                    "xm": 155,
+                    "ym": 248,
+                    "zm": 162
+                }
+            },
+            {
+                "label": "magnocellular_nucleus_of_lateral_hypothalamic_area ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 10,
+                    "xm": 30,
+                    "ym": 357,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "posterior_hypothalamic_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 281,
+                    "yh": 610,
+                    "zh": 10,
+                    "xm": 166,
+                    "ym": 249,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "dorsal_hypothalamic_area",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 10,
+                    "xm": 30,
+                    "ym": 357,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "bundle_x",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 10,
+                    "xm": 30,
+                    "ym": 357,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "lateral__hypothalamic_area__posterior_part",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 400,
+                    "yh": 633,
+                    "zh": 23,
+                    "xm": 169,
+                    "ym": 234,
+                    "zm": 167
+                }
+            },
+            {
+                "label": "mammillary_peduncle",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 335,
+                    "yh": 646,
+                    "zh": 3,
+                    "xm": 169,
+                    "ym": 241,
+                    "zm": 157
+                }
+            },
+            {
+                "label": "supramammillary_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 310,
+                    "yh": 630,
+                    "zh": 6,
+                    "xm": 168,
+                    "ym": 245,
+                    "zm": 164
+                }
+            },
+            {
+                "label": "lateral_part_of_medial_mammillary_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 334,
+                    "yh": 640,
+                    "zh": 5,
+                    "xm": 168,
+                    "ym": 243,
+                    "zm": 158
+                }
+            },
+            {
+                "label": "medial_part_of_medial_mammillary_nucleus ",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 340,
+                    "yh": 658,
+                    "zh": 4,
+                    "xm": 171,
+                    "ym": 241,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "basal_division_of_medial_mammillary_nucleus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 402,
+                    "yh": 642,
+                    "zh": 32,
+                    "xm": 171,
+                    "ym": 242,
+                    "zm": 165
+                }
+            },
+            {
+                "label": "lateral_mammillary_nucleus",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 351,
+                    "yh": 628,
+                    "zh": 7,
+                    "xm": 163,
+                    "ym": 244,
+                    "zm": 155
+                }
+            },
+            {
+                "label": "lenticular_fasciculus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 370,
+                    "yh": 587,
+                    "zh": 30,
+                    "xm": 159,
+                    "ym": 242,
+                    "zm": 176
+                }
+            },
+            {
+                "label": "mammillotegmental_tract",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 30,
+                    "xm": 33,
+                    "ym": 392,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "medial_mammillary_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 30,
+                    "xm": 33,
+                    "ym": 392,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "retromammillary_area",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 30,
+                    "xm": 33,
+                    "ym": 392,
+                    "zm": 328
+                }
+            },
+            {
+                "label": "infundibular_stalk",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 377,
+                    "yh": 682,
+                    "zh": 36,
+                    "xm": 175,
+                    "ym": 267,
+                    "zm": 140
+                }
+            },
+            {
+                "label": "optic_tract",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 367,
+                    "yh": 612,
+                    "zh": 21,
+                    "xm": 159,
+                    "ym": 256,
+                    "zm": 150
+                }
+            },
+            {
+                "label": "supraoptic_dicussation",
+                "data": {
+                    "blockNumber": 24,
+                    "xh": 352,
+                    "yh": 659,
+                    "zh": 32,
+                    "xm": 172,
+                    "ym": 265,
+                    "zm": 148
+                }
+            },
+            {
+                "label": "substantia_nigra__reticular_part",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 429,
+                    "yh": 596,
+                    "zh": 25,
+                    "xm": 158,
+                    "ym": 236,
+                    "zm": 162
+                }
+            },
+            {
+                "label": "substantia_nigra__compact_part",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 189,
+                    "yh": 136,
+                    "zh": 11,
+                    "xm": 160,
+                    "ym": 213,
+                    "zm": 161
+                }
+            },
+            {
+                "label": "substantia_nigra__lateral_part ",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 11,
+                    "xm": 30,
+                    "ym": 359,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "midbrain_(mesencephalon)",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 380,
+                    "yh": 611,
+                    "zh": 16,
+                    "xm": 164,
+                    "ym": 230,
+                    "zm": 174
+                }
+            },
+            {
+                "label": "red_nucleus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 394,
+                    "yh": 625,
+                    "zh": 7,
+                    "xm": 166,
+                    "ym": 221,
+                    "zm": 171
+                }
+            },
+            {
+                "label": "parabrachial_pigmented_nucleus",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 429,
+                    "yh": 611,
+                    "zh": 15,
+                    "xm": 161,
+                    "ym": 227,
+                    "zm": 163
+                }
+            },
+            {
+                "label": "interpeduncular_fossa",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 15,
+                    "xm": 31,
+                    "ym": 366,
+                    "zm": 333
+                }
+            },
+            {
+                "label": "white_matter_of_midbrain",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 310,
+                    "yh": 353,
+                    "zh": 13,
+                    "xm": 118,
+                    "ym": 209,
+                    "zm": 225
+                }
+            },
+            {
+                "label": "interstitial_nucleus_of_cajal",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 319,
+                    "yh": 636,
+                    "zh": 29,
+                    "xm": 172,
+                    "ym": 211,
+                    "zm": 178
+                }
+            },
+            {
+                "label": "interocularmotor_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 29,
+                    "xm": 32,
+                    "ym": 390,
+                    "zm": 329
+                }
+            },
+            {
+                "label": "precommissural_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 299,
+                    "yh": 609,
+                    "zh": 23,
+                    "xm": 170,
+                    "ym": 208,
+                    "zm": 186
+                }
+            },
+            {
+                "label": "interstitial_nucleus_of_posterior_commissure",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 309,
+                    "yh": 612,
+                    "zh": 19,
+                    "xm": 168,
+                    "ym": 204,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "subcommissural_organ",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 281,
+                    "yh": 627,
+                    "zh": 24,
+                    "xm": 176,
+                    "ym": 208,
+                    "zm": 187
+                }
+            },
+            {
+                "label": "posterior_commissure",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 286,
+                    "yh": 626,
+                    "zh": 21,
+                    "xm": 175,
+                    "ym": 206,
+                    "zm": 186
+                }
+            },
+            {
+                "label": "pretectal_region",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 335,
+                    "yh": 589,
+                    "zh": 11,
+                    "xm": 159,
+                    "ym": 198,
+                    "zm": 185
+                }
+            },
+            {
+                "label": "nucleus_of_darkschewitsch",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 11,
+                    "xm": 30,
+                    "ym": 359,
+                    "zm": 334
+                }
+            },
+            {
+                "label": "peripeduncular_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 396,
+                    "yh": 533,
+                    "zh": 20,
+                    "xm": 137,
+                    "ym": 207,
+                    "zm": 181
+                }
+            },
+            {
+                "label": "subbrachial_nucleus",
+                "data": {
+                    "blockNumber": 39,
+                    "xh": 0,
+                    "yh": 0,
+                    "zh": 20,
+                    "xm": 31,
+                    "ym": 375,
+                    "zm": 331
+                }
+            },
+            {
+                "label": "brachium_of_superior_colliculus",
+                "data": {
+                    "blockNumber": 48,
+                    "xh": 268,
+                    "yh": 76,
+                    "zh": 0,
+                    "xm": 145,
+                    "ym": 201,
+                    "zm": 179
+                }
+            },
+            {
+                "label": "medial_portion_of_sth",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 407,
+                    "yh": 597,
+                    "zh": 21,
+                    "xm": 159,
+                    "ym": 233,
+                    "zm": 168
+                }
+            },
+            {
+                "label": "laterodorsal_portion_of_sth",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 385,
+                    "yh": 546,
+                    "zh": 20,
+                    "xm": 148,
+                    "ym": 234,
+                    "zm": 175
+                }
+            },
+            {
+                "label": "lateroventral_portion_of_sth",
+                "data": {
+                    "blockNumber": 45,
+                    "xh": 402,
+                    "yh": 555,
+                    "zh": 12,
+                    "xm": 149,
+                    "ym": 226,
+                    "zm": 172
+                }
+            },
+            {
+                "label": "parasubthalamic_nucleus",
+                "data": {
+                    "blockNumber": 17,
+                    "xh": 382,
+                    "yh": 545,
+                    "zh": 32,
+                    "xm": 143,
+                    "ym": 216,
+                    "zm": 180
+                }
+            }
+        ]
+    },
+    {
+        "label": "Optic-Chiasm",
+        "data": {
+            "blockNumber": 47,
+            "xh": 417,
+            "yh": 716,
+            "zh": 7,
+            "xm": 168,
+            "ym": 272,
+            "zm": 136
+        },
+        "children": [
+            {
+                "label": "optic_chiasm",
+                "data": {
+                    "blockNumber": 47,
+                    "xh": 417,
+                    "yh": 716,
+                    "zh": 7,
+                    "xm": 168,
+                    "ym": 272,
+                    "zm": 136
+                }
+            }
+        ]
+    }
+]
