@@ -26,7 +26,7 @@
         ]
     },
     {
-        "label": "Left-Cerebral-White-Matter",
+        "label": "Cerebral-White-Matter",
         "data": {
             "blockNumber": "20",
             "xh": 321.1054903418424,
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "label": "Left-Cerebral-Cortex      ",
+        "label": "Cerebral-Cortex      ",
         "data": {
             "blockNumber": "20",
             "xh": 322.0,
@@ -918,7 +918,7 @@
         ]
     },
     {
-        "label": "Left-Lateral-Ventricle",
+        "label": "Lateral-Ventricle",
         "data": {
             "blockNumber": "45",
             "xh": 208.69927964100143,
@@ -980,7 +980,7 @@
         ]
     },
     {
-        "label": "Left-Cerebellum-White_Matter",
+        "label": "Cerebellum-White_Matter",
         "data": {
             "blockNumber": "25",
             "xh": 274.9722911216065,
@@ -1054,7 +1054,7 @@
         ]
     },
     {
-        "label": "Left-Cerebellum-Cortex",
+        "label": "Cerebellum-Cortex",
         "data": {
             "blockNumber": "25",
             "xh": 248.0,
@@ -1092,7 +1092,7 @@
         ]
     },
     {
-        "label": "Left-Thalamus",
+        "label": "Thalamus",
         "data": {
             "blockNumber": "45",
             "xh": 343.7922327432414,
@@ -2114,7 +2114,7 @@
         ]
     },
     {
-        "label": "Left-Caudate    ",
+        "label": "Caudate    ",
         "data": {
             "blockNumber": "47",
             "xh": 277.9950070149377,
@@ -2164,7 +2164,7 @@
         ]
     },
     {
-        "label": "Left-Putamen   ",
+        "label": "Putamen   ",
         "data": {
             "blockNumber": "24",
             "xh": 443.3260620949638,
@@ -2190,15 +2190,15 @@
         ]
     },
     {
-        "label": "Left-Pallidum     ",
+        "label": "Pallidum     ",
         "data": {
-            "blockNumber": "25",
-            "xh": 275.4527303815054,
-            "yh": 460.0631923912656,
-            "zh": 14,
-            "xm": 136.0452453451199,
-            "ym": 136.54103880159013,
-            "zm": 112.54410305119134
+            "blockNumber": "24",
+            "xh": 416.19962542690314,
+            "yh": 463.18265946898754,
+            "zh": 12,
+            "xm": 133.21831703075,
+            "ym": 255.05577586948368,
+            "zm": 180.35188956683263
         },
         "children": [
             {
@@ -2236,7 +2236,21 @@
                     "ym": 254.11408070654613,
                     "zm": 176.67121280094113
                 }
-            },
+            }
+        ]
+    },
+    {
+        "label": "Brain-stem",
+        "data": {
+            "blockNumber": "25",
+            "xh": 275.4527303815054,
+            "yh": 460.0631923912656,
+            "zh": 14,
+            "xm": 136.0452453451199,
+            "ym": 136.54103880159013,
+            "zm": 112.54410305119134
+        },
+        "children": [
             {
                 "label": "Oculomotor nerve",
                 "data": {
@@ -3188,7 +3202,7 @@
         ]
     },
     {
-        "label": "Left-Hippocampus  ",
+        "label": "Hippocampus  ",
         "data": {
             "blockNumber": "09",
             "xh": 361.0421074904782,
@@ -3958,7 +3972,7 @@
         ]
     },
     {
-        "label": "Left-Amygdala ",
+        "label": "Amygdala ",
         "data": {
             "blockNumber": "19",
             "xh": 284.79264450239026,
@@ -4188,7 +4202,7 @@
         ]
     },
     {
-        "label": "Left-Accumbens-area",
+        "label": "Accumbens-area",
         "data": {
             "blockNumber": "47",
             "xh": 369.5118085275004,
@@ -4238,7 +4252,7 @@
         ]
     },
     {
-        "label": "Left-VentralDC",
+        "label": "VentralDC",
         "data": {
             "blockNumber": "45",
             "xh": 435.7853073463268,
