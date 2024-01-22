@@ -1,5 +1,5 @@
-# BrainAtlas-EX9-19
-This repository contains data that is consumed by the [BrainAtlas project](https://github.com/UCL/BrainAtlas). This data corresponds to patient EX9-19. For the source code of this project refer to the main [BrainAtlas repo](https://github.com/UCL/BrainAtlas).
+# NextBrain - Case 5
+This repository contains data that is consumed by the [NextBrain project](https://github.com/UCL/NextBrain). This data corresponds to case 5. For the source code of this project refer to the main [NextBrain repo](https://github.com/UCL/NextBrain).
 
 ## Data structure
 This brain specimen has been cut into 49 blocks including cerebrum, cerebellum and brain stem. The histology-related data is organised following a numbered list of blocks, from 1 to 49. 
@@ -65,15 +65,15 @@ The data in this directory consists of:
 In this repo we store a set of matrices to relate the MRI volume (or the orthogonal views) to each histology slice in any of its available contrasts: LFB, HE or labels.
 The matrices stored under the _mri_rotated_ directory are defined from the MRI spatial coordinates to histology (in both resolutions). An example of how to relate MRI and histology is shown in the following picture,.
 
-![alt text](https://github.com/UCL/BrainAtlas-EX9-19/blob/main/mri2histo.svg?raw=true)
+![alt text](https://github.com/UCL/NextBrain-Case5/blob/main/mri2histo.svg?raw=true)
 
 On the contrary, matrices stored under _histology_ and _histology_hr_ directores are defined from the histology slice to the MRI volume, and the process would be the opposite to the one shown in the figure. Thus, one initially fixes the block and slice numbers and the spatial histology coordinates and then compute the MRI space coordinates. Finally, to compute the physical RAS coordinates, one can use the header of the nifti file _mri.nii.gz_.
 
 
 ## Additional BrainAtlas patient data:
-* [P57-16](https://github.com/UCL/BrainAtlas-P57-16)
-* [P41-16](https://github.com/UCL/BrainAtlas-P41-16)
-* [P58-16](https://github.com/UCL/BrainAtlas-P58-16)
-* [P85-18](https://github.com/UCL/BrainAtlas-P85-18)
+* [Case 1](https://github.com/UCL/NextBrain-Case1)
+* [Case 2](https://github.com/UCL/NextBrain-Case2)
+* [Case 3](https://github.com/UCL/NextBrain-Case3)
+* [Case 4](https://github.com/UCL/NextBrain-Case4)
 
 
