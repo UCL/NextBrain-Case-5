@@ -70,10 +70,10 @@ The matrices stored under the _mri_rotated_ directory are defined from the MRI s
 On the contrary, matrices stored under _histology_ and _histology_hr_ directores are defined from the histology slice to the MRI volume, and the process would be the opposite to the one shown in the figure. Thus, one initially fixes the block and slice numbers and the spatial histology coordinates and then compute the MRI space coordinates. Finally, to compute the physical RAS coordinates, one can use the header of the nifti file _mri.nii.gz_.
 
 
-## Additional BrainAtlas patient data:
-* [Case 1](https://github.com/UCL/NextBrain-Case1)
-* [Case 2](https://github.com/UCL/NextBrain-Case2)
-* [Case 3](https://github.com/UCL/NextBrain-Case3)
-* [Case 4](https://github.com/UCL/NextBrain-Case4)
+## Additional NextBrain patient data:
+* [Case 1](https://github.com/UCL/NextBrain-Case-1)
+* [Case 2](https://github.com/UCL/NextBrain-Case-2)
+* [Case 3](https://github.com/UCL/NextBrain-Case-3)
+* [Case 4](https://github.com/UCL/NextBrain-Case-4)
 
 
