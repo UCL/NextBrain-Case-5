@@ -1,7 +1,7 @@
 {
     "1": {
-        "width": 403,
-        "height": 7558,
+        "width": 3829,
+        "height": 6891,
         "slices": 32,
         "orientation": "sagittal"
     },
@@ -18,8 +18,8 @@
         "orientation": "coronal"
     },
     "4": {
-        "width": 138,
-        "height": 7319,
+        "width": 680,
+        "height": 7306,
         "slices": 11,
         "orientation": "sagittal"
     },
@@ -60,8 +60,8 @@
         "orientation": "coronal"
     },
     "11": {
-        "width": 214,
-        "height": 7281,
+        "width": 2066,
+        "height": 7092,
         "slices": 17,
         "orientation": "sagittal"
     },
@@ -84,8 +84,8 @@
         "orientation": "coronal"
     },
     "15": {
-        "width": 491,
-        "height": 3061,
+        "width": 428,
+        "height": 3099,
         "slices": 31,
         "orientation": "axial"
     },
@@ -102,8 +102,8 @@
         "orientation": "coronal"
     },
     "18": {
-        "width": 1574,
-        "height": 4434,
+        "width": 1536,
+        "height": 4421,
         "slices": 39,
         "orientation": "axial"
     },
@@ -144,7 +144,7 @@
         "orientation": "coronal"
     },
     "25": {
-        "width": 415,
+        "width": 1272,
         "height": 7080,
         "slices": 33,
         "orientation": "sagittal"
@@ -198,8 +198,8 @@
         "orientation": "coronal"
     },
     "34": {
-        "width": 226,
-        "height": 7042,
+        "width": 1889,
+        "height": 6891,
         "slices": 18,
         "orientation": "coronal"
     },
@@ -217,7 +217,7 @@
     },
     "37": {
         "width": 529,
-        "height": 3981,
+        "height": 3968,
         "slices": 42,
         "orientation": "axial"
     },
@@ -246,7 +246,7 @@
         "orientation": "coronal"
     },
     "42": {
-        "width": 113,
+        "width": 239,
         "height": 7130,
         "slices": 9,
         "orientation": "sagittal"
@@ -258,8 +258,8 @@
         "orientation": "coronal"
     },
     "44": {
-        "width": 201,
-        "height": 6765,
+        "width": 1625,
+        "height": 6651,
         "slices": 16,
         "orientation": "coronal"
     },
@@ -282,14 +282,14 @@
         "orientation": "coronal"
     },
     "48": {
-        "width": 1070,
-        "height": 5215,
+        "width": 970,
+        "height": 5203,
         "slices": 34,
         "orientation": "axial"
     },
     "49": {
-        "width": 2809,
-        "height": 3187,
+        "width": 2143,
+        "height": 2693,
         "slices": 31,
         "orientation": "axial"
     }
