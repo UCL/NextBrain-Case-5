@@ -59,7 +59,7 @@ The data in this directory consists of:
 - __histologyHRDimensionsKey.json__: metadata corresponding to the *histology_hr* directory. It contains the image size and number of slices for each block, as well as the orientation of the acquisition.
 - __mriDimensionsKey.json__: metadata corresponding to the *mri* directory. It contains the image size and number of slices in each orthogonal direction.
 - __image_ontology_hierarchical.json__: it contains the label ontology used to delinate brain structures split into two levels: the first one correspond to high-level ROI structures while the second contains the nuclei in each structure. Moreover, it contains the centroid voxel of each nuclei on MRI space $(x_m, y_m, z_m)$ and on histological space $(x_h, y_h, z_h)$
-	
+- __block2slab_mapping.csv__: it contains the necessary mapping between block identifiers (```BLOCK_NUM```) in this repository and the slab_block identifiers (```BLOCK_NAME```) in the original raw data in the [data repository](https://rdr.ucl.ac.uk/articles/dataset/Registered_histology_MRI_and_manual_annotations_of_over_300_brain_regions_in_5_human_hemispheres_data_from_ERC_Starting_Grant_677697_BUNGEE-TOOLS_/24243835/1)	
 
 ## How to relate MRI and histology?
 In this repo we store a set of matrices to relate the MRI volume (or the orthogonal views) to each histology slice in any of its available contrasts: LFB, HE or labels.
